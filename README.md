@@ -1,3 +1,3 @@
-# Kokoa Clone 2020
+# Kokoa Clone 2020 Update
 
-CSS Project
+HTML & CSS Project!
